@@ -1,0 +1,22 @@
+1. How would you like to interact and communicate with your customer while specifying a vehicle?
+I prefer talking to the customer in person, preferably at the customer’s place.
+2. Describe how you build trust with your customer when creating an offer?
+I show what I am doing in the Truck Configurator.
+3. How do you secure that you offer a solution that match the customer needs?
+I ask a lot of open questions.
+4. What do you include when selling a total offer to a customer?
+I include a financing contract, a maintenance contract and Volvo Connect services.
+5. What do you experience being challenges when putting together a total offer?
+I am lacking knowledge about the financial bit.
+6. What are the challenges when specifying a vehicle? (In VSS, WIS, PERF, ERS)
+It is taking a lot of clicks in VSS. It also feels like I have to be an engineer to specify the right vehicle for the customer.
+7. How do you prefer to introduce the conversation about pricing?
+I keep this topic as last, since I don’t feel comfortable about it.
+8. Describe your dream, how would you like to be supported when specifying a new vehicle?
+I want the system to ask me questions so that it can specify the right vehicle for me.
+9. Describe your dream process when putting together a total offer?
+I want to have easy access to all parts of the total offer.
+
+
+
+

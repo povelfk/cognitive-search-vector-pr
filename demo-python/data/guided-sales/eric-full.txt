@@ -1,0 +1,18 @@
+1. How would you like to interact and communicate with your customer while specifying a vehicle? 
+Digital
+2. Describe how you build trust with your customer when creating an offer?  
+I use historical data if exist and use that so we get the right product specification
+3. How do you secure that you offer a solution that match the customer needs?
+I am data driven
+4. What do you include when selling a total offer to a customer?
+Gold Contract, free diesel or charging first 1000KM, cinema tickets and a nice bottle of champagne
+5. What do you experience being challenges when putting together a total offer?
+It is to much to select I have worked here for 2 years and still struggles to specify the correct product
+6. What are the challenges when specifying a vehicle? (In VSS, WIS, PERF, ERS)
+Too many systems not integrated and a bad user interface
+7. How do you prefer to introduce the conversation about pricing?
+With a big discount, special price just for me
+8. Describe your dream, how would you like to be supported when specifying a new vehicle?
+I have all the data about my customer, know everything about his needs, dreams and business. 
+9. Describe your dream process when putting together a total offer?
+All data is visible and changes direct when doing changes and it is so fast that I can do it in front of my customer. 
